@@ -1,4 +1,4 @@
-package com.company;
+package lesson1;
 
 public class Course {
     private Challenge[] challenges;
